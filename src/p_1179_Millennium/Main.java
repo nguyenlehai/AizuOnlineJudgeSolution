@@ -2,7 +2,7 @@ package p_1179_Millennium;
 
 import java.util.Scanner;
 
-//https://onlinejudge.u-aizu.ac.jp/problems/1147
+//https://onlinejudge.u-aizu.ac.jp/problems/1179
 public class Main {
 
   public static void main(String[] args) {
