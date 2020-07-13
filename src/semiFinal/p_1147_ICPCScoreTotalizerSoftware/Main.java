@@ -1,4 +1,4 @@
-package p_1147_ICPCScoreTotalizerSoftware;
+package semiFinal.p_1147_ICPCScoreTotalizerSoftware;
 
 import java.util.Scanner;
 

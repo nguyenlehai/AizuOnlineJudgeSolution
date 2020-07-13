@@ -1,4 +1,4 @@
-package p_1159_NextMayor;
+package semiFinal.p_1159_NextMayor;
 
 import java.util.Scanner;
 

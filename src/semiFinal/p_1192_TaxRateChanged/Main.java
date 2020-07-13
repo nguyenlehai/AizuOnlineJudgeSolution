@@ -1,4 +1,4 @@
-package p_1192_TaxRateChanged;
+package semiFinal.p_1192_TaxRateChanged;
 
 import java.util.Scanner;
 

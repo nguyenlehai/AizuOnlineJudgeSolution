@@ -1,4 +1,4 @@
-package p_1179_Millennium;
+package semiFinal.p_1179_Millennium;
 
 import java.util.Scanner;
 

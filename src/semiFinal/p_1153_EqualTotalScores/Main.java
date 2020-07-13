@@ -1,4 +1,4 @@
-package p_1153_EqualTotalScores;
+package semiFinal.p_1153_EqualTotalScores;
 
 import java.util.Scanner;
 
